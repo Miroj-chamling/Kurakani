@@ -9,4 +9,4 @@ Support login with google account, chat with any user, send text, image and stic
 - Dart
 - Firebase
 - Firestore
-- Firebase 
+- Firebase messaging 
